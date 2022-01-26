@@ -4,11 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fchanhyolee.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### More Information
+</div>
 
-포항의 한동대학교 전산전자공학부에 재학 중인 이찬효라고 합니다.
+## 👋 Chanhyo Lee's
+### Senior :: Studying CS 💻 in Handong Global University 🏫
+
+- 📖 [Deep Learning Lab](http://deeplearninglab.handong.edu) 에서 배우고 있습니다.
+- 🔥 `Deep learning`, `System Engineering`, `Natural Language Processing`, `Computer Vision` 등에 관심이 있습니다.
+
+> 三人行必有我師 삼인행필유아사 - 논어 (공자, Confucius)
+> 
+> 세 명이 함께 있다면, 그 곳에 필히 스승이 될 사람이 있다.
+> 
+
+좋은 사람들과 함께 배우며 성장하는 것을 중요하게 생각하고, 저 또한 그런 사람이 되는 것이 목표입니다.
+
+[Github](https://github.com/ChanhyoLee)
+
 
 ### Contact me
 

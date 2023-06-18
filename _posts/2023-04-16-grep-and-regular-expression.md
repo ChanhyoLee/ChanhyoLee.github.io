@@ -24,7 +24,7 @@
 
 `grep`의 이름에 대한 이해를 하기 위해서는 먼저 `ed` (ee-dee) editor에 대한 이해가 필요합니다. 당시 `ed` 에디터에는 지금의 `vim`에서와 비슷하게, `/print/` 와 같은 Regular Expression을 통해 해당 문자열의 검색이 가능했었습니다. 그러던 중, 용량이 큰 텍스트 파일 (`The Federalist Papers`-미연방헌법을 지지하는 논문들)에 대한 작업이 필요했고, 초창기 시스템은 자원이 굉장히 한정적이었기에 (메모리 < 64Kbytes) 양이 많은 문서에 대해서 한 파일에 작성해서 메모리에 올린 뒤 작업하는 것이 불가능했습니다.
 
-이 과정에서 여러 파일들 속의 문자열을 찾기 위한 요구가 생겼고, 이에 따라 `grep`이 만들어졌습니다. `ed` 에서는 `g/print/d` 와 같이 입력했을 때 문서 전체 (Global)에서 `print` 라는 문자열을 모두 삭제 (Delete)하라는 방식으로 명령어를 사용헀었습니다. `grep`은 `g/re/p`의 형태로, Globally search for a Regular Expression and Print matching lines 라는 의미가 있습니다. 
+이 과정에서 여러 파일들 속의 문자열을 찾기 위한 요구가 생겼고, 이에 따라 `grep`이 만들어졌습니다. `ed` 에서는 `g/print/d` 와 같이 입력했을 때 문서 전체 (Global)에서 `print` 라는 문자열을 모두 삭제 (Delete)하라는 방식으로 명령어를 사용했었습니다. `grep`은 `g/re/p`의 형태로, Globally search for a Regular Expression and Print matching lines 라는 의미가 있습니다. 
 
 참조 : https://www.youtube.com/watch?v=NTfOnGZUZDk
 
